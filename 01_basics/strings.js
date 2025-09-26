@@ -33,4 +33,4 @@ const arr = "apple, banana, mango"
 const fruits = arr.split(", ") //splits based on comma and space
 console.log(fruits) //['apple', 'banana', 'mango']
 
-// follow documentation for more string methods in mdn 
+// follow documentation for more string methods in mdn

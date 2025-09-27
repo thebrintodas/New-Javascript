@@ -84,4 +84,4 @@ const course = {
 
 const {courseInstructor} = course //destructuring the object
 console.log(courseInstructor) //accessing the destructured value
- 
+  
